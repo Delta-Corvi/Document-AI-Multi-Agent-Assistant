@@ -1,4 +1,5 @@
 # Document AI Multi-Agent Assistant 🚀
+<img width="1074" height="887" alt="Photo Project 2" src="https://github.com/user-attachments/assets/ce527062-3005-45cf-9c44-adfe4e62a2f4" />
 
 A sophisticated document intelligence system that leverages multiple AI agents to automatically analyze, summarize, and interact with PDF documents. Built with Google Gemini API and Gradio for an intuitive web interface.
 
