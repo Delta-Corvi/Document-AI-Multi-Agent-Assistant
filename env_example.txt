@@ -1,0 +1,6 @@
+# Document Organizer AI - Environment Variables
+# Copy this file to .env and insert your API keys
+
+# Google Gemini API Key
+GEMINI_API_KEY= your api key
+
