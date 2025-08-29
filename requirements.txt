@@ -1,0 +1,7 @@
+gradio
+google-generativeai
+langchain
+chromadb
+pypdf2
+python-dotenv
+better-profanity==0.7.0

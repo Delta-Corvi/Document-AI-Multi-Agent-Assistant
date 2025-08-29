@@ -1,0 +1,15 @@
+Document-Chat-MultiAgent-Gradio/
+├── app.py
+├── requirements.txt
+├── README.md
+├── agents/
+│   ├── __init__.py
+│   ├── summarizer_agent.py
+│   ├── question_agent.py
+│   └── metadata_agent.py
+├── utils/
+│   ├── __init__.py
+│   ├── gemini_client.py
+│   └── validator.py
+├── data/
+└── metadata_exports/
