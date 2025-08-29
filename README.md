@@ -177,21 +177,5 @@ Contributions are welcome! Here's how you can help:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
-
-- **Google Gemini** for providing powerful language model capabilities
-- **Gradio** for the excellent web interface framework
-- **PyPDF2** for reliable PDF processing functionality
-- **The Open Source Community** for the various libraries that make this project possible
-
-## 📞 Support
-
-For questions, bug reports, or feature requests:
-
-- **Issues**: Use the [GitHub Issues](https://github.com/yourusername/document-ai-assistant/issues) page
-- **Discussions**: Join conversations in [GitHub Discussions](https://github.com/yourusername/document-ai-assistant/discussions)
-- **Email**: Contact the maintainers directly for security-related concerns
-
----
 
 **Ready to transform your document workflow?** Upload your first PDF and experience the power of AI-driven document intelligence!
